@@ -1,1 +1,1 @@
-# Laboratio - Compilar un Kernel
+# Laboratori0 - Compilar un Kernel
