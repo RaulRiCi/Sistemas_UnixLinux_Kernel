@@ -23,9 +23,9 @@ Una de las mejores razones para compilar un kernel es para aprender cómo funcio
 
 1. Instalar las dependencias necesarias: Abre una terminal en tu Debian y ejecuta los siguientes comandos para instalar las herramientas esenciales:
 
-#### sudo apt update
+- sudo apt update
 
-#### sudo apt install build-essential libncurses-dev bison flex libssl-dev libelf-dev
+- sudo apt install build-essential libncurses-dev bison flex libssl-dev libelf-dev
 
 Instala las herramientas necesarias para compilar un kernel:
 
