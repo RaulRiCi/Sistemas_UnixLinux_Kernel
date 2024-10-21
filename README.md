@@ -1,4 +1,4 @@
-# Laboratori0
+# Laboratorio
 
 # Compilar un Kernel
 
